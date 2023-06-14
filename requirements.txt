@@ -2,6 +2,3 @@ numpy
 pillow
 streamlit
 tensorflow
-argparse
-math
-skimage.transform
